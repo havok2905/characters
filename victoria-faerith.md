@@ -16,7 +16,7 @@
 
 **Speed:** 30ft., 40ft. Bladesong
 
-**AC:** 14 ( Leather Armor ), 18 ( Bladesong )
+**AC:** 14 ( Leather Armor ), 19 ( Leather Armor + Shield ),  18 ( Leather Armor + Bladesong ), 23 ( Leather Armor + Shield + Bladesong )
 
 **HP:** 22
 
