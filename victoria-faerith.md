@@ -1,6 +1,6 @@
 ![Victoria Faerith Token](./assets/tokens/token-victoria-faerith.png)
 
-# Name
+# Victoria Faerith
 
 **Background:** Custom (OneD&D UA)
 
