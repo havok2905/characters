@@ -89,7 +89,7 @@
 
 - **Cantrips:** Dancing Lights, Mending, Frostbite, Lightning Lure, Mage Hand, Toll the Dead
 - **1st (4):** Alarm, Cure Wounds, Detect Magic, Find Familiar, Floating Disk, Heroism, Identify, Magic Missile, Protection from Evil and Good, Shield, Sleep
-- **2nd (3):** Branding Smite, Dragon's Breath, Heat Metal, Invisibility, Misty Step, Vortex Warp, Warding Bond
+- **2nd (3):** Branding Smite, Dragon's Breath, Heat Metal, Hold Person, Invisibility, Misty Step, Vortex Warp, Warding Bond
 - **3rd (3):** Counterspell, Fly, Sending
 - **4th (2):** Fabricate
 - **5th (0):**
